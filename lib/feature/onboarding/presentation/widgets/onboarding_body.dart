@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:shopping_app/core/widgets/custom_button.dart';
 import 'package:shopping_app/feature/onboarding/presentation/widgets/onboarding_title_section.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
-import 'package:shopping_app/feature/auth/view/login_screen.dart';
+import 'package:shopping_app/feature/auth/presentation/views/login_screen.dart';
 import 'package:shopping_app/feature/onboarding/data/onboarding_model.dart';
 import 'package:shopping_app/feature/onboarding/presentation/widgets/custom_animation.dart';
 
